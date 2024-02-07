@@ -1,3 +1,9 @@
-body{
-    background-color: black;
+
+.wrapper{
+    display: flex;
+    width: 100%;
+}
+
+.section__left{
+    background-color: #335381;
 }
